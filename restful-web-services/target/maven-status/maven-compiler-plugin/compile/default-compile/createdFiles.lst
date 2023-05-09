@@ -1,0 +1,9 @@
+com\restfulwebservices\exception\CustomizedResponseEntityExceptionHandler.class
+com\restfulwebservices\helloworld\HelloWorldBean.class
+com\restfulwebservices\users\UserNotFoundException.class
+com\restfulwebservices\users\User.class
+com\restfulwebservices\users\UserDaoService.class
+com\restfulwebservices\helloworld\HelloWorldController.class
+com\restfulwebservices\RestfulWebServicesApplication.class
+com\restfulwebservices\exception\ErrorDetails.class
+com\restfulwebservices\users\UserResource.class
